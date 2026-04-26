@@ -1,0 +1,1 @@
+This project aims to predict house prices based on various features such as location, area, number of bedrooms, bathrooms, and other relevant factors. It uses machine learning techniques to build a predictive model that helps estimate property prices accurately.
