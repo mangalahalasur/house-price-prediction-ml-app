@@ -5,7 +5,7 @@ import pickle
 # load model and scaler
 
 
-model = pickle.load(open('lr_model.pkl (1).pkl','rb'))
+model = pickle.load(open('lr_model (1).pkl','rb'))
 scaler = pickle.load(open('scaler.pkl','rb'))
 
 # title
